@@ -10,6 +10,7 @@ import torch.optim as optim
 import torch.utils.data as utils
 import os
 
+#just a comment
 def main():
     input_dir, output_dir = sys.argv[1:]
     
